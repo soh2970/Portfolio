@@ -1,4 +1,3 @@
-// src/pages/contact.tsx
 import Head from "next/head"
 import Navigation from "@/components/Navigation"
 import { Contact } from "@/components/Contact"
