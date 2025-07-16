@@ -1,6 +1,6 @@
 Stephanie Oh | Portfolio Website
 
-**Live site:** [https://stephanie-seeyeon-oh.com](https://stephanie-seeyeon-oh.com)
+**Live site:** [https://stephanie-oh.com](https://stephanie-oh.com)
 This is my personal portfolio website, built to showcase my work in **cybersecurity, application security, and cloud computing**. It highlights my technical projects, leadership experiences, and offers insights into my approach to building secure, scalable systems.
 
 ## About the project
